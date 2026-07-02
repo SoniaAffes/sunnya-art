@@ -1,0 +1,213 @@
+
+@font-face {
+    font-family: lobster;
+    src: url(Lobster-Regular.ttf );
+}
+@font-face {
+    font-family: moontime;
+    src: url(MoonTime\ Regular\ 400.otf );
+}
+
+nav{
+    background-color: #fbbfb898;
+    display: flex;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    justify-content: space-between ;
+    text-decoration: none;
+    color: #fcfbfb;
+    letter-spacing: normal;
+    padding: 0px 10px;
+    
+}
+.logo{
+height: 60px;
+width: 60px;
+}
+.lien{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #658965;
+    letter-spacing: 2px;
+    display: flex;
+    
+}
+.hihi{
+    font-size: medium;
+    font-family: 'lobster',sans-serif;
+}
+body{
+    background-color: #f7f7cf;
+}
+footer{
+    height: 100px;
+
+}
+
+.navS{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 950px;
+    margin-left: 40px;
+}
+H1{
+   font-family: 'lobster',sans-serif;
+}
+
+.glace{
+    font-family: 'lobster',sans-serif;
+    color: #000;
+    font-size: 20px;
+}
+button{
+    font-size: 12px;
+    font-family: 'lobser',sans-serif;
+    background-color: #f7b490;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 15px;
+    align-items: center;
+    margin-left: 5px;
+    text-decoration: none;
+}
+button:hover{
+background-color: bisque;
+color: #f8f6f5;
+    }
+.BONJOUR{
+background-image: none;
+    }
+.abcd{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+label{
+    font-family: 'lobster' sans-serif;
+    font-size: 20px;
+    color: rgb(95, 130, 111);
+}
+.herosection{
+    background-image: url(Sunny’a\ ART\ \(2\).jpg);
+    background-size: cover;
+    height: 500px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.text{
+    background-color: #f7b49065;
+    display: flex;
+    font-family: 'lobster' sans-serif;
+    font-size: 30px;
+
+}
+.hello{
+ font-family: 'moontime',sans-serif;
+ font-size: 30px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ color: #a8c6e2;
+ text-decoration: underline;
+}
+input{
+border-radius: 13px;
+color: #a8c6e2;
+
+}
+.gfseh{
+      width: 200px; 
+      height: 300px;
+      margin: 10px 0px 0px 400px;
+      }
+.vfhtfg {
+color: #a4c3b4;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+} 
+.NYC{
+display: flex;
+} 
+.nhd{
+background-color: #e1e1b3;
+width: 320px;
+height: 490px;
+align-items: center;
+justify-content: center;
+}
+.fty{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.khfreoujfkgor {
+background-color: #f7b490;
+color: #658965;
+cursor: pointer;
+}
+.Zeineb{
+    display: flex;
+    align-items: center;
+justify-content: space-between;
+background-color: #e1e1b3;
+margin: 20px 0px 0px 5px;
+}
+.DODO{
+font-family: 'moontime' sans-serif;
+justify-content: center;
+display: flex;
+align-items: center;
+color:#5c8154;
+}
+.peach{
+display: flex;
+background-color: #e1d5b3;
+height:300px;
+justify-content: space-between;
+
+}
+.luigi{
+display: flex;
+background-color: #e1d5b3;
+height: 300px;
+justify-content: space-between;
+
+}
+.Selim{
+width: 240px;
+height: 245px;
+}
+.AbdelAbdoud{
+height: 30px;
+margin-bottom: 200px;
+width: 20px;
+}
+.fgt{
+    background-color: #e1e1b3;
+}
+.fxdc{
+    display: flex;
+    background-color: #658965;
+    justify-content: space-between;
+}
+.huhun{
+    font-family: 'lobster' sans-serif;
+}
+.piano{
+    width: 60px;
+    height: 60px;
+}
+.canapé{
+    display: flex;
+}
+.bonbon{
+    height: ;
+}
